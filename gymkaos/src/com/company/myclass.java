@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class tworaw {
+public class myclass {
 
 
     static List<String> kundlista_raw = new ArrayList<>();

@@ -5,8 +5,8 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        tworaw.första_stränghjälparen();
-        System.out.println(tworaw.kundlista_raw.get(2));
+        myclass.första_stränghjälparen();
+        System.out.println(myclass.kundlista_raw.get(2));
        /* String line = "";
         List<String> kundlista_raw = new ArrayList<>();
         try {
